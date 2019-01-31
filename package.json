@@ -1,0 +1,28 @@
+{
+  "name": "timestamp-project",
+  "version": "1.0.0",
+  "description": "Timestamp service for FCC projecrt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Unix",
+    "timestamp",
+    "time",
+    "date",
+    "linux",
+    "rest"
+  ],
+  "author": "Vilius Vystartas",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },"repository": {
+    "type": "git",
+    "url": "git+https://github.com/vystartasv/timestamp-api.git"
+  }
+}
